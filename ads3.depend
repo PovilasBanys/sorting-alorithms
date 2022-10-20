@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608478252 source:d:\code blocks\ads3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<chrono>
+	<ctime>
+	<random>
+

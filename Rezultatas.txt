@@ -1,0 +1,8 @@
+Naudotas metodas: Isrinkimas
+Rezultato duomenys: 
+9904 9837 9713 9670 9298 7147 6929 5956 5296 4113 4071 3589 3573 3495 3339 
+3066 2564 9963 2294 1838 1720 1547 
+Palyginimu skaicius : 231
+Keitimu skaicius : 21
+Milisekundes, per kiek buvo padarytas darbas : 0
+Sekundes, per kiek buvo padarytas darbas  : 0
